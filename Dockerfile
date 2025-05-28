@@ -25,7 +25,7 @@ RUN rm -rf /workspace/python/source_code/fourcastnet/pre_data
 
 # Install Earth-2 Studio
 RUN pip install jupyterlab
-RUN python -m pip install --upgrade pip setuptools wheel
+#RUN python -m pip install --upgrade pip setuptools wheel
 RUN apt update && apt install ffmpeg -y
 #RUN git clone https://github.com/NVIDIA/earth2mip.git && cd earth2mip && pip install . 
 #makani can stay the same for now
