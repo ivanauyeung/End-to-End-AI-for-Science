@@ -14,12 +14,12 @@ The content is structured in multiple modules covering the following:
 - Introduction to NVIDIA PhysicsNeMo
 - Module 1: Physics Informed approaches to an AI for Scientific application.
   - Lab 1: Simulating Projectile Motion
-  - Lab 2: Steady State Diffusion in a Composite Bar using PINNs
+  - Lab 2: Steady State Diffusion in a Composite Bar using PINNs - Optional
   - Lab 3: Forecasting weather using Navier-Stokes PDE
   - Lab 4: Spring mass problem - Solving transient problems and inverse problems - Optional 
 - Module 2: Data-driven approach to an AI for Scientific application.
   - Lab 1: Solving the Darcy-Flow problem using FNO
-  - Lab 2: Solving the Darcy-Flow problem using AFNO
+  - Lab 2: Solving the Darcy-Flow problem using AFNO - Optional
   - Lab 3: Forecasting weather using FourCastNet
 - Module 3: Data-driven approach using PhysicsNeMo Core and Introduction to Earth2Studio
   - Lab 1: Training Physics-ML Models using PhysicsNeMo Core
@@ -35,7 +35,7 @@ The tools and frameworks used in the bootcamp are as follows:
 
 ## Bootcamp duration:
 
-The overall bootcamp will take approximately 14 hours. 
+The overall bootcamp will take approximately 12 hours. 
 
 ## Bootcamp prerequisites:
 
