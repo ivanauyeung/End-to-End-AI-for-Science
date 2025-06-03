@@ -14,22 +14,22 @@ The content is structured in multiple modules covering the following:
 - Introduction to NVIDIA PhysicsNeMo
 - Module 1: Physics Informed approaches to an AI for Scientific application.
   - Lab 1: Simulating Projectile Motion
-  - Lab 2: Steady State Diffusion in a Composite Bar using PINNs - Optional
-  - Lab 3: Forecasting weather using Navier-Stokes PDE
-  - Lab 4: Spring mass problem - Solving transient problems and inverse problems - Optional 
+  - Lab 2: Steady State Diffusion in a Composite Bar using PINNs
+  - Lab 3: Spring mass problem - Solving transient problems and inverse problems
 - Module 2: Data-driven approach to an AI for Scientific application.
   - Lab 1: Solving the Darcy-Flow problem using FNO
   - Lab 2: Solving the Darcy-Flow problem using AFNO - Optional
-  - Lab 3: Forecasting weather using FourCastNet
+  - Lab 3: Training Physics-ML Models using PhysicsNeMo Core
   - Lab 4: Modeling Magnetohydrodynamics with Physics Informed Neural Operators
-- Module 3: Data-driven approach using PhysicsNeMo Core and Introduction to Earth2Studio
-  - Lab 1: Training Physics-ML Models using PhysicsNeMo Core
-  - Lab 2: Training Weather forecasting Models using PhysicsNeMo Core
-  - Lab 3: Introduction to Earth2Studio - Deterministic Inference
-  - Lab 4: Introduction to Earth2Studio - Diagnostic & Ensemble Inference
-- Module 4: Application of DoMINO to external aerodynamics simulations
+- Module 3: Application of DoMINO to external aerodynamics simulations
   - Lab 1: Data pre-processing pipeline for DoMINO
   - Lab 2: Training and Inference recipe for DoMINO using PhysicsNeMo
+- Optional: Weather prediction with PhysicsNeMo and Introduction to Earth2Studio
+  - Lab 1: Forecasting weather using Navier-Stokes PDE
+  - Lab 2: Forecasting weather using FourCastNet
+  - Lab 3: Training Weather forecasting Models using PhysicsNeMo Core
+  - Lab 4: Introduction to Earth2Studio - Deterministic Inference
+  - Lab 5: Introduction to Earth2Studio - Diagnostic & Ensemble Inference
 ## Tools and frameworks:
 
 The tools and frameworks used in the bootcamp are as follows:
