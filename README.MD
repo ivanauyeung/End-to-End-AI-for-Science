@@ -24,6 +24,9 @@ The content is structured in multiple modules covering the following:
 - Module 3: Application of DoMINO to external aerodynamics simulations
   - Lab 1: Data pre-processing pipeline for DoMINO
   - Lab 2: Training and Inference recipe for DoMINO using PhysicsNeMo
+- Mini-Challenge
+  - Lab 1: Wave Equation Example
+  - Lab 2: Flow Over a Parameterized Block Example
 - Optional: Weather prediction with PhysicsNeMo and Introduction to Earth2Studio
   - Lab 1: Forecasting weather using Navier-Stokes PDE
   - Lab 2: Forecasting weather using FourCastNet
