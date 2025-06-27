@@ -84,8 +84,6 @@ Execute these commands:
 cd /workspace/
 git clone https://github.com/NVIDIA/physicsnemo.git
 cd physicsnemo
-git checkout domino
-git branch -a
 rsync -av physicsnemo/* /usr/local/lib/python3.12/dist-packages/physicsnemo/
 ```
 
@@ -108,7 +106,7 @@ Access Jupyter Lab using `http://localhost:1234` in your browser.
 
 Please install the following in the container.
 ```bash
-pip install numpy pyvista vtk matplotlib tqdm numpy-stl
+pip install numpy pyvista vtk matplotlib tqdm numpy-stl torchinfo
 apt install  xvfb
 ```
 
