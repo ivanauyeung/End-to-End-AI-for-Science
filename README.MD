@@ -1,6 +1,8 @@
-# End-to-End AI for Science
+# PhysicsNeMo Training
 
-This Bootcamp will provide researchers hands-on approaches on how to use NVIDIA PhysicsNeMo, a framework that combines physics and partial differential equations (PDEs) with artificial intelligence (AI) to build robust models. Participants will also learn about the differences between Physics-driven and Data-driven approaches to AI. In addition, the Bootcamp will provide hands-on experience with visualizing the results of physics simulations using ParaView. This Lab will also introduce you to Earth2Studio where you get to try out different workflows for various Weather forecasting models!
+This Bootcamp will provide researchers hands-on approaches on how to use NVIDIA PhysicsNeMo, a framework that combines physics and partial differential equations (PDEs) with artificial intelligence (AI) to build robust models. Participants will also learn about the differences between Physics-driven and Data-driven approaches to AI. This bootcamp consist of:
+- 2 Hours of Training Labs: Foundation building with hands-on exercises
+- 4 Hours of Challenges: Progressive problem-solving with increasing complexity
 
 <p align="center">
   <img width="600" height="400" src="https://github.com/openhackathons-org/End-to-End-AI-for-Science/blob/d403086ce59c49b26be430bbea0056c37bd4d5f6/workspace/python/jupyter_notebook/omniverse/images/tcwv.gif">
@@ -12,34 +14,25 @@ This Bootcamp will provide researchers hands-on approaches on how to use NVIDIA 
 The content is structured in multiple modules covering the following: 
 
 - Introduction to NVIDIA PhysicsNeMo
-- Module 1: Physics Informed approaches to an AI for Scientific application.
-  - Lab 1: Simulating Projectile Motion
-  - Lab 2: Steady State Diffusion in a Composite Bar using PINNs
-  - Lab 3: Forecasting weather using Navier-Stokes PDE
-  - Lab 4: Spring mass problem - Solving transient problems and inverse problems - Optional 
-- Module 2: Data-driven approach to an AI for Scientific application.
-  - Lab 1: Solving the Darcy-Flow problem using FNO
-  - Lab 2: Solving the Darcy-Flow problem using AFNO
-  - Lab 3: Forecasting weather using FourCastNet
-  - Lab 4: Modeling Magnetohydrodynamics with Physics Informed Neural Operators
-- Module 3: Data-driven approach using PhysicsNeMo Core and Introduction to Earth2Studio
-  - Lab 1: Training Physics-ML Models using PhysicsNeMo Core
-  - Lab 2: Training Weather forecasting Models using PhysicsNeMo Core
-  - Lab 3: Introduction to Earth2Studio - Deterministic Inference
-  - Lab 4: Introduction to Earth2Studio - Diagnostic & Ensemble Inference
-- Module 4: Application of DoMINO to external aerodynamics simulations
-  - Lab 1: Data pre-processing pipeline for DoMINO
-  - Lab 2: Training and Inference recipe for DoMINO using PhysicsNeMo
+- Module 1: 2 Hours of Training Labs
+  - Lab 1: Introduction to Physics-Informed Neural Networks
+  - Lab 2: Solving ODEs with PhysicsNeMo
+  - Lab 3: From ODEs to PDEs - Diffusion Problems
+  - Lab 4: Advanced PDE Systems
+- Module 2: 4 Hours of Challenges
+  - Challenge 1: Advanced Wave Dynamics 
+  - Challenge 2: Solving the Darcy-Flow problem using AFNO
+  - Challenge 3: Forecasting weather using FourCastNet
+  - Challenge 4: Modeling Magnetohydrodynamics with Physics Informed Neural Operators
 ## Tools and frameworks:
 
 The tools and frameworks used in the bootcamp are as follows:
 - [NVIDIA® PhysicsNeMo](https://developer.nvidia.com/PhysicsNeMo)
-- [NVIDIA Earth2Studio](https://github.com/NVIDIA/earth2studio)
 - [ParaView](https://www.paraview.org/)
 
 ## Bootcamp duration:
 
-The overall bootcamp will take approximately 14 hours. 
+The overall bootcamp will take approximately 6 hours (2 hours training + 4 hours challenges). 
 
 ## Bootcamp prerequisites:
 
